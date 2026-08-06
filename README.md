@@ -26,4 +26,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3310-remove-methods-from-project/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
