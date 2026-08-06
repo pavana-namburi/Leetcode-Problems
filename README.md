@@ -34,4 +34,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3601-find-drivers-with-improved-fuel-efficiency/) | Medium |
 <!---LeetCode Topics End-->
