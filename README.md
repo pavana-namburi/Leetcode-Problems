@@ -42,6 +42,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -63,4 +64,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
