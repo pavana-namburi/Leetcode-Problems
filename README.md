@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [3731-find-missing-elements](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -120,6 +121,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -132,9 +134,11 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
