@@ -8,12 +8,14 @@
 | [1004-max-consecutive-ones-iii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
@@ -149,6 +151,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
