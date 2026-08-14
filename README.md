@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -60,6 +61,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0076-minimum-window-substring](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -156,6 +158,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
