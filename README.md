@@ -8,6 +8,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1563-stone-game-v](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
@@ -23,6 +24,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -81,6 +83,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2029-stone-game-ix](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -201,5 +204,6 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 <!---LeetCode Topics End-->
