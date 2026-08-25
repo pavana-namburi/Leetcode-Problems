@@ -90,6 +90,7 @@
 | [0022-generate-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
+| [0392-is-subsequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1927-sum-game](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -126,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0392-is-subsequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -145,6 +147,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0392-is-subsequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [1140-stone-game-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
