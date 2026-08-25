@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -52,6 +53,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [1169-invalid-transactions](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1169-invalid-transactions/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -135,6 +137,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
