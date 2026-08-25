@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -135,6 +136,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
