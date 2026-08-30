@@ -23,6 +23,7 @@
 | [1872-stone-game-viii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2395-find-subarrays-with-equal-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -132,6 +133,7 @@
 | [1927-sum-game](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
