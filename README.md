@@ -149,6 +149,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
