@@ -169,6 +169,7 @@
 | [0234-palindrome-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0392-is-subsequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
