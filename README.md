@@ -161,6 +161,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0206-reverse-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -186,6 +187,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0206-reverse-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
