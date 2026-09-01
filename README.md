@@ -20,6 +20,7 @@
 | [1140-stone-game-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1169-invalid-transactions](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1169-invalid-transactions/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1563-stone-game-v](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
@@ -229,6 +230,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1872-stone-game-viii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -268,6 +270,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
