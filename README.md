@@ -94,6 +94,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
@@ -208,12 +209,14 @@
 | [0024-swap-nodes-in-pairs](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
@@ -357,4 +360,8 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
