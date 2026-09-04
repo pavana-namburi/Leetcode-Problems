@@ -50,6 +50,7 @@
 | [0076-minimum-window-substring](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -174,6 +175,7 @@
 | [0141-linked-list-cycle](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -189,6 +191,7 @@
 | [0141-linked-list-cycle](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0392-is-subsequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
