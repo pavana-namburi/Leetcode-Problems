@@ -96,6 +96,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0509-fibonacci-number](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
@@ -168,6 +169,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
@@ -211,6 +213,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
