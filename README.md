@@ -73,6 +73,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0148-sort-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0148-sort-list/) | Medium |
 | [1169-invalid-transactions](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1169-invalid-transactions/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -172,6 +173,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0141-linked-list-cycle](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -186,6 +188,7 @@
 | [0125-valid-palindrome](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0392-is-subsequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -226,6 +229,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0148-sort-list/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +239,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0148-sort-list/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
