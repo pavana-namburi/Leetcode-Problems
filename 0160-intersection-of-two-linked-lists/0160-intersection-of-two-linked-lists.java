@@ -25,7 +25,7 @@ public class Solution {
         }
 
         hs1.retainAll(hs2);
-        System.out.println(hs1);
+        
         if(hs1.size()==0)
             return null;
         return hs1.getFirst();
