@@ -42,6 +42,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +274,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1872-stone-game-viii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
