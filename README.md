@@ -139,6 +139,7 @@
 | [0392-is-subsequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1169-invalid-transactions](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1169-invalid-transactions/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1927-sum-game](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
@@ -238,6 +239,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
