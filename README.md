@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0835-image-overlap](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0835-image-overlap/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -387,6 +388,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0079-word-search/) | Medium |
+| [0835-image-overlap](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
