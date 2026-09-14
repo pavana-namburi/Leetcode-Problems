@@ -109,6 +109,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0509-fibonacci-number](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [1140-stone-game-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
@@ -417,4 +418,8 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
