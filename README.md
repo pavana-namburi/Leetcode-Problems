@@ -25,6 +25,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1563-stone-game-v](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -69,6 +70,7 @@
 | [1386-cinema-seat-allocation](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -311,6 +313,7 @@
 | [1140-stone-game-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -338,6 +341,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Sliding Window
@@ -356,6 +360,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
