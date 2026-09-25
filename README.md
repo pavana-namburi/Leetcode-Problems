@@ -66,6 +66,7 @@
 | [0904-fruit-into-baskets](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1169-invalid-transactions](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1169-invalid-transactions/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -88,6 +89,7 @@
 | [0015-3sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0148-sort-list/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1169-invalid-transactions](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1169-invalid-transactions/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -106,6 +108,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
@@ -162,6 +165,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1169-invalid-transactions](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1169-invalid-transactions/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -181,6 +185,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0079-word-search/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -245,6 +250,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
