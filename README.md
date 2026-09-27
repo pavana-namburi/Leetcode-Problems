@@ -169,6 +169,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1169-invalid-transactions](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1169-invalid-transactions/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -254,11 +255,13 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
