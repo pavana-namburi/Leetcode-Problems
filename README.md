@@ -169,6 +169,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1169-invalid-transactions](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1169-invalid-transactions/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -257,6 +258,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
@@ -264,6 +266,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
