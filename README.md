@@ -111,6 +111,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -165,6 +166,7 @@
 | [0079-word-search](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0392-is-subsequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -196,6 +198,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0079-word-search/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Greedy
