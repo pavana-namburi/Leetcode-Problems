@@ -25,6 +25,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1563-stone-game-v](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
@@ -143,6 +144,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
@@ -339,6 +341,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -350,6 +353,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0148-sort-list/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -477,6 +481,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Queue
@@ -497,6 +502,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -507,12 +513,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -520,6 +528,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -531,4 +540,12 @@
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
