@@ -2,12 +2,17 @@ class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
         List<Integer> al=new ArrayList<>();
         int n=nums.length;
+        int c=0,cnt=0;
 
-        Arrays.sort(nums);
         for(int i=0;i<n;i++){
+            if(nums[i]<target)
+                cnt++;
             if(nums[i]==target)
-                al.add(i);
+                c++;
         }
+
+        for(int i=0;i<c;i++)
+            al.add(cnt+i);
 
         return al;
     }
