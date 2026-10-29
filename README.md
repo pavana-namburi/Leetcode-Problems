@@ -59,6 +59,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -131,6 +132,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +230,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -371,6 +374,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0148-sort-list/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -473,6 +477,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -491,6 +496,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -546,6 +552,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -564,6 +571,7 @@
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
