@@ -11,6 +11,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0835-image-overlap](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0835-image-overlap/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
@@ -153,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0509-fibonacci-number](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [1140-stone-game-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
