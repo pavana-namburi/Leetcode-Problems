@@ -33,6 +33,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2029-stone-game-ix](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -401,6 +402,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
