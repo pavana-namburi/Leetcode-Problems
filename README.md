@@ -249,6 +249,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
@@ -553,6 +554,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Combinatorics
