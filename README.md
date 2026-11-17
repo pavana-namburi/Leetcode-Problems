@@ -254,6 +254,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -334,6 +335,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2825-make-string-a-subsequence-using-cyclic-increments/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Stack
@@ -400,6 +402,7 @@
 | [1872-stone-game-viii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
