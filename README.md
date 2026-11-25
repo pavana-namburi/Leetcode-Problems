@@ -86,6 +86,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -508,6 +510,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -679,4 +682,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/pavana-namburi/Leetcode-Problems/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
